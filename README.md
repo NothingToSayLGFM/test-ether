@@ -18,8 +18,6 @@ npm install
 
 ### Запуск додатку
 
-У першому терміналі запустіть json-server:
-
 ```bash
 node index.js <privateKey> <amount> <recipient>
 ```
