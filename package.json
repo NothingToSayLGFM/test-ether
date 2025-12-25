@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "send": "node index.js",
+    "send:testnet": "NODE_ENV=testnet node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "ethers": "^6.16.0"
+  }
+}
