@@ -23,3 +23,5 @@ npm install
 ```bash
 node index.js <privateKey> <amount> <recipient>
 ```
+
+
