@@ -21,5 +21,5 @@ npm install
 У першому терміналі запустіть json-server:
 
 ```bash
-node index.js <privateKey> <amount> <recipient>"
+node index.js <privateKey> <amount> <recipient>
 ```
